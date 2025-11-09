@@ -18,8 +18,8 @@ int main(int argc, char *argv[])
     MainWindow w2("Window 2");
     
     // Get window dimensions
-    int windowWidth = 640;
-    int windowHeight = 480;
+    int windowWidth = 800;
+    int windowHeight = 600;
     
     // Calculate optimal positions for side-by-side arrangement
     int spacing = 20; // Space between windows
